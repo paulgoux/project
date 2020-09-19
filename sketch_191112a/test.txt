@@ -1,0 +1,18 @@
+//sliderMenu = new sliderBox(40,400,90,10,11);
+  //sliderMenu.sliders.get(0).label = "Scale";
+  //sliderMenu.sliders.get(1).label = "Floor";
+  //sliderMenu.sliders.get(2).label = "Grass";
+  //sliderMenu.sliders.get(3).label = "Mountains";
+  //sliderMenu.sliders.get(4).label = "Sea";
+  //sliderMenu.sliders.get(5).label = "Distance";
+  //sliderMenu.sliders.get(6).label = "Hdistance";
+  //sliderMenu.sliders.get(7).label = "Height";
+  //sliderMenu.sliders.get(8).label = "Yrot";
+  //sliderMenu.sliders.get(9).label = "Xrot";
+  //sliderMenu.sliders.get(10).label = "Zrot";
+  
+  type 0 = circle
+  type 1 = null
+  type 2 = line
+  type 3 = tri 
+  type 4 = square
